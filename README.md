@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkayama
+- 👋 Hi, I’m @venkayamma Damanaboyina
 - 👀 I’m interested in software development roles
 - 🌱 I’m currently learning Java Full stack Web Development
 - 💞️ I’m looking to collaborate on Software Projects
